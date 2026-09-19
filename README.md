@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! Soy Juan Manuel 👋</h1>
+<h1 align="center">HELLO THERE!</h1>
 
 <p align="center">
-Estudiante de Ingeniería de Sistemas, construyendo aplicaciones full-stack y explorando Deep Learning.
+Estudiante de Ingeniería de Sistemas y computacion, construyendo aplicaciones full-stack y explorando Deep Learning.
 </p>
 
 <br>
